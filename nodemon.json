@@ -1,0 +1,4 @@
+{
+  "verbose": true,
+  "ignore": ["docroot/node_modules", "docroot/dist", ".docksal", "docroot/.cache"]
+}
